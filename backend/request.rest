@@ -1,0 +1,4 @@
+POST http://localhost:3001/login/authenticate
+Content-Type: application/json
+
+{   "username":"Kill" }
